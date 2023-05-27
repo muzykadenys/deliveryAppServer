@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Elliot",
+    "items": [
+      {
+        "id": "elliot1",
+        "name": "Busy",
+        "img": "https://cdn.shopify.com/s/files/1/0555/3081/5553/products/BUSY1_1080x.jpg?v=1664233757"
+      },
+      {
+        "id": "elliot1",
+        "name": "Important",
+        "img": "https://cdn.shopify.com/s/files/1/0555/3081/5553/products/IMPORTANT1_1296x.jpg?v=1645271405"
+      },
+      {
+        "id": "elliot1",
+        "name": "Changing",
+        "img": "https://cdn.shopify.com/s/files/1/0555/3081/5553/products/CHANGING1_1296x.jpg?v=1645271907"
+      }
+    ]
+  },
+  {
+    "name": "Mokup",
+    "items": [
+      {
+        "id": "mokup1",
+        "name": "Mackbook",
+        "img": "https://assets.ls.graphics/625816a3416990dd61391b9b/6443e2b86a788f6b6d170836_625ea9c66c7cdc6677d0a950_61b0a280135ce4388a9aaad8_Space-20Gray-20MacBook-20Pro-20Mockup-20--205.webp"
+      },
+      {
+        "id": "mokup2",
+        "name": "AppleWatch",
+        "img": "https://assets.ls.graphics/625816a3416990dd61391b9b/6443e298f2864ac9a8e7f034_640f28200e9d4e61d09c57ac_Midnight-Ocean-09.webp"
+      },
+      {
+        "id": "mokup3",
+        "name": "Fold",
+        "img": "https://assets.ls.graphics/625816a3416990dd61391b9b/6430049bf56ab3002c8f10cf_Samsung_Fold_14_Black.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Denys",
+    "email": "some@gmail.com",
+    "phone": "394530719478",
+    "address": "Shevchenka, 3",
+    "itemsId": ["elliot_0", "elliot_2"]
+  },
+  {
+    "_id": { "$oid": "6472733cb3b79fae9a41b2e8" },
+    "name": "Grand discount",
+    "code": "#GRAND#",
+    "percents": { "$numberInt": "40" }
+  }
+]
